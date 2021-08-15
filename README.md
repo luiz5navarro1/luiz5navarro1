@@ -14,6 +14,6 @@ I'm also interested in Salesforce CRM, and because of that I'm writing code in A
 to SQL), Javascript, HTML and CSS.
 I'm currently improving my Salesforce capabilities, willing to take my Salesforce Developer 1 certification, and doing as much
 work as I can in my original background languages.
-I'm looking to collaborate on projects involving logics, no matter the programming language used, so I can keep growing on my
-knowledge.
+I'm looking to collaborate on projects involving logics, no matter what programming language is in use, so I can keep growing
+on my knowledge.
 I can be reached at luiz5navarro1@gmail.com
